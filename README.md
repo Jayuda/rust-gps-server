@@ -30,11 +30,3 @@ Before you begin, ensure you have met the following requirements:
 
 - [Rust](https://www.rust-lang.org/) installed. You can install it using [rustup](https://rustup.rs/).
 - [Cargo](https://doc.rust-lang.org/cargo/) - Rust's package manager.
-- [PostgreSQL](https://www.postgresql.org/) or another database of your choice, if you plan to store GPS data.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/gps-data-server.git
